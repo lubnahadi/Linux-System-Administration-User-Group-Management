@@ -51,8 +51,8 @@ This project demonstrates basic Linux system administration tasks using Fedora.
   Code
   ## Screenshots
   ### User & Group Management
-  ! [User Management](linux identity manm pic.jpg)
-  ! [Group Management] (linux identy manem pic 2.jpg)
+  ![User Management](linux identity manm pic.jpg)
+  ![Group Management](linux identy manem pic 2.jpg)
 
   
   
