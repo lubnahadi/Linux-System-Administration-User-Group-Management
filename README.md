@@ -48,5 +48,11 @@ This project demonstrates basic Linux system administration tasks using Fedora.
   ## Purpose
   This project helped me build foundationalLinux skills requiredfor IT Help Desk and system administration roles.
 
+  Code
+  ## Screenshots
+  ### User & Group Management
+  ! [User Management](linux identity manm pic.jpg)
+  ! [Group Management] (linux identy manem pic 2.jpg)
+
   
   
